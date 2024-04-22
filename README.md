@@ -1,5 +1,7 @@
-# CAT's Playstation
+<h1 align="center">CAT's Playstation</h1>
+<h3 align="center">JUST HAVE SOME FUN</h3>
 
-# JUST HAVE SOME FUN
+#### :space_invader: Demo
 
+➼ [Playstation](https://playstationcat.netlify.app/)
 ![Alt text](image.png)
